@@ -33,9 +33,7 @@ Os dados são salvos na pasta `dados_coletados/`:
 
 ### Comandos para Iniciar
 ```bash
-# Acesse o diretório do projeto
-cd webscraping-diario-oficial-tabuleiros-alto-parnaiba
-
+# Faça o clone do diretório do projeto
 # Instale as bibliotecas selenium e requests (usar ambiente virtual (.venv) opcional).
 pip install requests selenium
 
