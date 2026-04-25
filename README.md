@@ -1,4 +1,4 @@
-# Web Scraping — Diário Oficial dod Municipios (Território: Chapada das Mangabeiras)
+# Web Scraping — Diário Oficial dos Municipios (Território: Chapada das Mangabeiras)
 
 Automação e coleta de publicações do Diário Oficial dos Municípios do Piauí, focando no território **Chapada das Mangabeiras**.
 
